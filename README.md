@@ -30,11 +30,8 @@ dan saya bagian dari tim sysadmin
 <img width="358" height="181" alt="Sampul Portofolio Minimalis Fotosentris Hitam Putih" src="https://github.com/user-attachments/assets/d495d628-13cf-4f69-ab34-d38b41592c3d" />
 <img width="365" height="181" alt="Sampul Portofolio Minimalis Fotosentris Hitam Putih (1)" src="https://github.com/user-attachments/assets/49b518b8-de63-49ea-b973-a559f5738e98" />
 
+buka file MoP(method of procedure) sysadmin more details
 
 
 
 
-
-
-
-> 

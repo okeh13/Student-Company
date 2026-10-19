@@ -2,10 +2,9 @@
 # Student-Company
 **Tentang**
 
-Student company adalah perusahaan yang di buat dari nol oleh murid dan di jalankan oleh murid.
-klien perusahaan kami meminta membuat jaringan dengan standar industri untuk perusahaan nya.
-jadi divisi tkj melakukan simulasi full dengan Proxmox VE kami terbagi menjadi 3 tim
-dan saya bagian dari tim sysadmin
+
+Student Company adalah perusahaan simulasi yang dibangun dan dijalankan sepenuhnya oleh murid. Kami ditugaskan membangun jaringan berstandar industri melalui simulasi penuh di Proxmox VE, terbagi dalam 3 tim: Network, SysAdmin, dan Security. Saya berperan sebagai System Administrator
+
 
 **Studi Kasus**
 > Sebuah perusahaan e-commerce skala menengah sering mengalami web server down karena trafik yang penuh. Mereka juga baru saja diretas sehingga data internalnya terancam. Bos perusahaan tersebut ingin agar (1) Website mereka tidak pernah down lagi meski banyak pengunjung, (2) Semua login karyawan diatur dari satu pusat dan punya kebijakan password yang ketat, dan (3) Semua serangan dari luar bisa dideteksi otomatis dan log-nya tersimpan di satu layar monitor khusus
@@ -23,11 +22,11 @@ dan saya bagian dari tim sysadmin
 > Tugas: Instalasi mesin SIEM (Elastic/ELK Stack) dan IDS (Suricata).
 > Fokus: Mengonfigurasi agar log dari traffic jaringan dan server bisa masuk dan terbaca di dashboard SIEM.
 
-mengunakan
+mengunakan server kami berkomunikasi untuk membangun jaringan 
 <img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/ec6e1c6a-c35a-4eed-ba79-9c3bc2a151e0" />
 
 
-proxmox 
+tampilan proxmox 
 
 
 <img width="365" height="181" alt="Sampul Portofolio Minimalis Fotosentris Hitam Putih (1)" src="https://github.com/user-attachments/assets/49b518b8-de63-49ea-b973-a559f5738e98" />
